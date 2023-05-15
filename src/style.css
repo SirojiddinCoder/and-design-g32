@@ -1,0 +1,42 @@
+.navbar-link{
+    margin-left: 600px;
+}
+.navbarBg{
+    /* background-color: #324885; */
+    /* background-color: #0d6efd; */
+    background-color: white;
+}
+.nav_color{
+    color: black !important;
+    font-size: 20px !important;
+    font-weight: 500;
+}
+.imgSize{
+    height: 600px !important;
+    width: 100%;
+}
+/* .grid-1{
+    background-color: red;
+}
+.grid-2{
+    background-color: blue;
+} */
+.carousel{
+    margin-bottom: 100px !important;
+}
+.about{
+    color: blue;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.description{
+    font-size: 35px;
+    font-weight: 700;
+    padding: 10 0px;
+}
+.academy-img{
+    margin-left: 100px !important;
+    /* width: 400px; */
+    height: 600px;
+}
